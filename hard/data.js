@@ -1,4 +1,4 @@
-window.audios = [
+export default [
     {
         title:
             "Como começei a programar / Por que criamos a Rocketseat / Nossa Stack",
